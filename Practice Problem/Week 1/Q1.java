@@ -71,6 +71,8 @@ public class Q1 {
         System.out.println("Draws = " + draws);
         System.out.println("Win Percentage = " + winPercentage + "%");
 
+        // close scanner 
+
         sc.close();
     }
 }
